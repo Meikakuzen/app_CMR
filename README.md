@@ -1,0 +1,1 @@
+- Para que funcione hay que poner el json-server --watch db.json -p 4000

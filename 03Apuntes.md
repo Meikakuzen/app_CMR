@@ -538,4 +538,3 @@ const params = useParams()
 
 - Un console.log me devolverá un objeto con la ruta en la que estoy
 
-## Editar Cliente

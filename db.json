@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pedro",
+      "empresa": "EmpresaFunK",
+      "email": "mailito@gmail.com",
+      "telefono": "35621",
+      "notas": "El cliente se queja mucho",
+      "id": 5
+    },
+    {
+      "nombre": "Edgar",
+      "empresa": "Código",
+      "email": "mail@mail.com",
+      "telefono": "251454",
+      "notas": "",
+      "id": 7
+    }
+  ]
+}
